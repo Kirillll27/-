@@ -1,0 +1,48 @@
+<!DOCTYPE html>
+<html lang="uk">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ФЛЕШ-КОД - Сайт-візитка</title>
+    <link rel="stylesheet" href="styles.css">
+</head>
+<body>
+    <header>
+        <nav>
+            <ul>
+                <li><a href="#">Меню</a></li>
+            </ul>
+        </nav>
+        <h1>ФЛЕШ-КОД</h1>
+        <img src="https://img.icons8.com/?size=100&id=PKQUMGZF1SKL&format=png&color=000000" alt="ФЛЕШ-КОД логотип">
+    </header>
+    <main>
+        <section>
+            <h2>САМІ ШВИДКІ В СВОЇМУ ДІЛІ</h2>
+            <p>Ми самі швидкі в створенні сайтів-візиток. За 30 хвилин ми зробимо вам лучшу візитку на ваш смак:)</p>
+        </section>
+        <section>
+            <h2>АКЦІЙНА ЦІНА</h2>
+            <table>
+                <caption>АКЦІЙНА ЦІНА</caption>
+                <tr>
+                    <th>Пакет</th>
+                    <th>Ціна</th>
+                </tr>
+                <tr>
+                    <td>1</td>
+                    <td>300$</td>
+                </tr>
+                <tr>
+                    <td>2</td>
+                    <td>500$</td>
+                </tr>
+            </table>
+        </section>
+    </main>
+    <footer>
+        <p>За послугам дзвоніть на номер:</p>
+        <p>+380932941344</p>
+    </footer>
+</body>
+</html>
